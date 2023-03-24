@@ -1,8 +1,3 @@
-import animateTitle from './features/animateTitle'
-import createBadge from './features/createBasge'
-import './styles/style.css'
+import textAnimation from './features/textAnimation'
 
-console.log('anH YEdsxdddxxssU EM')
-
-createBadge()
-animateTitle()
+textAnimation()
