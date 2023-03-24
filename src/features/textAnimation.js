@@ -4,7 +4,7 @@ gsap.defaults({ duration: 1, ease: 'power.out' })
 function textAnimation() {
   tl.to('.h1', {
     x: 10,
-    y: 10,
+    y: 15,
     color: 'green',
     onComplete: () => console.log('Đã ổn rồi đấy'),
   }),
